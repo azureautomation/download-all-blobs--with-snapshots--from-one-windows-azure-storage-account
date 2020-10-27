@@ -1,0 +1,20 @@
+{
+    "Author": "Windows Azure Product Team Scripts",
+    "ContentSize": 5240,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/download-all-blobs-(with-snapshots)-from-one-windows-azure-storage-account/master/CopyFilesFromAzureStorageContainer.ps1",
+    "DownloadCount": 2561,
+    "Id": "all-Blobs-with-Snapshots-3b184a79",
+    "IsFederated": true,
+    "IsWorkflow": false,
+    "Popularity": 302,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2013-9-3T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Copies blobs from a single storage container or all storage containers to a local directory.  If the blobs have \"/\" in the name to represent a directory hierarchy, then the script will recreate that directory hierarchy under the local destination path specified.",
+    "Title": "Download all Blobs (with Snapshots) from One Windows Azure Storage Account",
+    "UpdatedDate": "2014-10-16T00:00:00",
+    "Url": "https://github.com/azureautomation/download-all-blobs-(with-snapshots)-from-one-windows-azure-storage-account",
+    "UserTags": "backup"
+}
